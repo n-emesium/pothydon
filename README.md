@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things tech.
 - 🌱 I’m currently trying to work with Physics Engines using C++;
 - 💞️ I’m looking to collaborate on eh, perhaps websites and apps?
-- 📫 How to reach me: Discord Tag: [p.0s31d0n//]#0011
+- 📫 How to reach me: Discord Tag: [p.0s31d0n//]#0002
 
 <!---
 pothydon/pothydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
